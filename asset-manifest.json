@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/dheeraj/static/css/main.916d3ea2.css",
-    "main.js": "/dheeraj/static/js/main.506f43e1.js",
-    "static/js/488.42386894.chunk.js": "/dheeraj/static/js/488.42386894.chunk.js",
-    "static/media/ezgif-7-e15a0f5635.gif": "/dheeraj/static/media/ezgif-7-e15a0f5635.72ad11b022819a24ec13.gif",
-    "static/media/ezgif-2-31f0e6d883.gif": "/dheeraj/static/media/ezgif-2-31f0e6d883.07103546613fa9660581.gif",
-    "static/media/homepage-image-03.png": "/dheeraj/static/media/homepage-image-03.97bb7c19581e33f5388d.png",
-    "static/media/explore-the-tech.png": "/dheeraj/static/media/explore-the-tech.488b76724ca6c4953d6d.png",
-    "static/media/Data-image.png": "/dheeraj/static/media/Data-image.88104f72fd475ded7762.png",
-    "static/media/Consulting-images.png": "/dheeraj/static/media/Consulting-images.b3813354d789a10bbbc3.png",
-    "static/media/Enterprineaure-image.png": "/dheeraj/static/media/Enterprineaure-image.3bb5cf04988e11d69dce.png",
-    "static/media/Artifical-image.png": "/dheeraj/static/media/Artifical-image.e0c0af3eb0bad0103e04.png",
-    "static/media/Network-image.png": "/dheeraj/static/media/Network-image.9a8ab349f3cbc5b173a3.png",
-    "static/media/cognitive-image.png": "/dheeraj/static/media/cognitive-image.69f7769bbda03f85fe12.png",
-    "static/media/Cybersecurity-image.png": "/dheeraj/static/media/Cybersecurity-image.7e2de4729304e021df5c.png",
-    "static/media/cloud-home-page-png.png": "/dheeraj/static/media/cloud-home-page-png.7a1f9ee44662879977fb.png",
-    "static/media/istockphoto-1133924836-612x612.jpg": "/dheeraj/static/media/istockphoto-1133924836-612x612.93a036e2770c763c18d9.jpg",
-    "static/media/wyreflow-logohigh.png": "/dheeraj/static/media/wyreflow-logohigh.8de23292d61527dc6e89.png",
-    "index.html": "/dheeraj/index.html",
-    "main.916d3ea2.css.map": "/dheeraj/static/css/main.916d3ea2.css.map",
-    "main.506f43e1.js.map": "/dheeraj/static/js/main.506f43e1.js.map",
-    "488.42386894.chunk.js.map": "/dheeraj/static/js/488.42386894.chunk.js.map"
+    "main.css": "/wyreflow/static/css/main.2e32c029.css",
+    "main.js": "/wyreflow/static/js/main.edfd793e.js",
+    "static/js/488.42386894.chunk.js": "/wyreflow/static/js/488.42386894.chunk.js",
+    "static/media/ezgif-7-e15a0f5635.gif": "/wyreflow/static/media/ezgif-7-e15a0f5635.72ad11b022819a24ec13.gif",
+    "static/media/ezgif-2-31f0e6d883.gif": "/wyreflow/static/media/ezgif-2-31f0e6d883.07103546613fa9660581.gif",
+    "static/media/homepage-image-03.png": "/wyreflow/static/media/homepage-image-03.97bb7c19581e33f5388d.png",
+    "static/media/explore-the-tech.png": "/wyreflow/static/media/explore-the-tech.488b76724ca6c4953d6d.png",
+    "static/media/Data-image.png": "/wyreflow/static/media/Data-image.88104f72fd475ded7762.png",
+    "static/media/Consulting-images.png": "/wyreflow/static/media/Consulting-images.b3813354d789a10bbbc3.png",
+    "static/media/Enterprineaure-image.png": "/wyreflow/static/media/Enterprineaure-image.3bb5cf04988e11d69dce.png",
+    "static/media/Artifical-image.png": "/wyreflow/static/media/Artifical-image.e0c0af3eb0bad0103e04.png",
+    "static/media/Network-image.png": "/wyreflow/static/media/Network-image.9a8ab349f3cbc5b173a3.png",
+    "static/media/cognitive-image.png": "/wyreflow/static/media/cognitive-image.69f7769bbda03f85fe12.png",
+    "static/media/Cybersecurity-image.png": "/wyreflow/static/media/Cybersecurity-image.7e2de4729304e021df5c.png",
+    "static/media/cloud-home-page-png.png": "/wyreflow/static/media/cloud-home-page-png.7a1f9ee44662879977fb.png",
+    "static/media/istockphoto-1133924836-612x612.jpg": "/wyreflow/static/media/istockphoto-1133924836-612x612.93a036e2770c763c18d9.jpg",
+    "static/media/wyreflow-logohigh.png": "/wyreflow/static/media/wyreflow-logohigh.8de23292d61527dc6e89.png",
+    "index.html": "/wyreflow/index.html",
+    "main.2e32c029.css.map": "/wyreflow/static/css/main.2e32c029.css.map",
+    "main.edfd793e.js.map": "/wyreflow/static/js/main.edfd793e.js.map",
+    "488.42386894.chunk.js.map": "/wyreflow/static/js/488.42386894.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.916d3ea2.css",
-    "static/js/main.506f43e1.js"
+    "static/css/main.2e32c029.css",
+    "static/js/main.edfd793e.js"
   ]
 }
